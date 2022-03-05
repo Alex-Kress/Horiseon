@@ -46,11 +46,13 @@ header a {
     color: #ffffff;
     text-decoration: none;
 }
+/* Header Styles End */
 
 p {
     font-size: 16px;
 }
 
+/* Hero Styles Start */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +61,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero Styles End */
 
 .float-left {
     float: left;
